@@ -1,1 +1,6 @@
 Tarea 1 algoritmos y complejidad
+
+Para compilar los codigos se puede usar:
+g++ -o test nombre_archivo.cpp -Wall
+
+Si se quiere probar la funcionalidad de los codigos, se deben guardar los datasets en la misma carpeta donde esta el programa.
